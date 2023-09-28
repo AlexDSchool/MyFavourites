@@ -1,0 +1,52 @@
+.img {
+  border-radius: 30px;
+  padding-top: 3px;
+}
+
+body {
+  background-color: grey;
+  width: 700px;
+  margin: 25px auto;
+  text-align: center;
+  border-radius: 10px;
+}
+p {
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h3 {
+  font-size: 40px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  padding-bottom: 4px;
+}
+
+h1 {
+  font-size: 50px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  letter-spacing: 1px;
+}
+
+h2 {
+  font-size: 35px;
+  padding: 4px;
+}
+
+ul {
+  display: inline-block;
+}
+
+li {
+  text-align: left;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a:hover {
+  color: white;
+  font-size: 50px;
+}
+
+html {
+  background: url(img/image-20160812-16339-v2g90o.avif) no-repeat center fixed;
+  background-size: cover;
+}
